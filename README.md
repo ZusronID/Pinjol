@@ -6,3 +6,5 @@ Perubahan didalam file gitHUB server
 
 lokal
 server
+
+didalam server saya mengedit file ini
