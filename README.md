@@ -2,4 +2,4 @@
 
 mencoba repository untuk belajar menggunakan github
 
-PErubahan didalam file gitHUB server
+Perubahan didalam file gitHUB server
