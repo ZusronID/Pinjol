@@ -8,3 +8,4 @@ lokal
 server
 
 dalam repository lokal saya melakukan perubahan selanjutnya
+didalam server saya mengedit file ini
