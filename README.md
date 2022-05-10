@@ -11,3 +11,5 @@ dalam repository lokal saya melakukan perubahan selanjutnya
 didalam server saya mengedit file ini
 
 kenapa tulisan yang saya edit di lokal hilang ?
+
+oh
